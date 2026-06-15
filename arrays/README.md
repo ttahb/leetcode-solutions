@@ -8,3 +8,8 @@ This folder contains LeetCode problems related to Arrays.
    - Pattern: HashMap
    - Time Complexity: O(n)
    - Space Complexity: O(n)
+
+2. Contains Duplicate
+   - Pattern: HashSet
+   - Time Complexity: O(n)
+   - Space Complexity: O(n)
