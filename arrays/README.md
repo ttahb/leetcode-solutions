@@ -13,3 +13,8 @@ This folder contains LeetCode problems related to Arrays.
    - Pattern: HashSet
    - Time Complexity: O(n)
    - Space Complexity: O(n)
+
+3. Anagram
+   - Pattern: Array
+   - Time Complexity: O(n)
+   - Space Complexity: O(1)
