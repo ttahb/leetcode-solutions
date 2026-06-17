@@ -18,3 +18,8 @@ This folder contains LeetCode problems related to Arrays.
    - Pattern: Array
    - Time Complexity: O(n)
    - Space Complexity: O(1)
+
+3. Valid Palindrome
+   - Pattern: Two Pointer
+   - Time Complexity: O(n)
+   - Space Complexity: O(1)
