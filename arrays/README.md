@@ -19,7 +19,12 @@ This folder contains LeetCode problems related to Arrays.
    - Time Complexity: O(n)
    - Space Complexity: O(1)
 
-3. Valid Palindrome
+4. Valid Palindrome
+   - Pattern: Two Pointer
+   - Time Complexity: O(n)
+   - Space Complexity: O(1)
+
+5. Container With Most Water
    - Pattern: Two Pointer
    - Time Complexity: O(n)
    - Space Complexity: O(1)
