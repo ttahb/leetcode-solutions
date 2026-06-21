@@ -14,7 +14,7 @@ This folder contains LeetCode problems related to Arrays.
    - Time Complexity: O(n)
    - Space Complexity: O(n)
 
-3. Anagram
+3. Valid Anagram
    - Pattern: Array
    - Time Complexity: O(n)
    - Space Complexity: O(1)
@@ -28,3 +28,9 @@ This folder contains LeetCode problems related to Arrays.
    - Pattern: Two Pointer
    - Time Complexity: O(n)
    - Space Complexity: O(1)
+  
+6. Two Sum II 
+   - Pattern: Two Pointer
+   - Time Complexity: O(n)
+   - Space Complexity: O(1)
+     
